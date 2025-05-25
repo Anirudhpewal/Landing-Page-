@@ -16,8 +16,7 @@
 
 body { 
   font-family: "DM Sans", sans-serif; 
-  background: url("https://images.pexels.com/photos/18029643/pexels-photo-18029643.jpeg") no-repeat center center fixed;
-  background-size: cover;
+  background-color: white; 
   color: var(--text-light); 
 }
 
@@ -33,7 +32,7 @@ body {
   font-size: 1.5rem; 
   
   color: var(--text-light); 
-}
+
 
 .nav__links { 
   display: flex; 
