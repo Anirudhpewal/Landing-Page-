@@ -1,6 +1,6 @@
 # Safar Express – Bus Travel Landing Page
 
-Safar Express is a simple and responsive bus travel booking landing page built using only **HTML** and **CSS** .
+Safar Express is a simple and responsive bus travel booking landing page built using  **HTML** and **CSS** .
 
 ## Features
 
